@@ -131,3 +131,7 @@ a:hover{
   margin-top: 32px;
   color: #EAF6F6;
 }
+.shrink {
+  width: 70%;
+  margin: auto;
+}

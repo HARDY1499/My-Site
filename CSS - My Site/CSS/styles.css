@@ -1,0 +1,133 @@
+  .top-container {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #EAF6F6;
+    position: relative;
+    margin: 0 auto 0 auto;
+    padding: 20px;
+  }
+
+  .middle-conatainer {}
+
+  .bottom-container {
+    background-color: #66BFBF;
+    margin-bottom: 0px;
+    padding: 40px;
+  }
+
+  body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+  }
+
+  /*********** 1 rem is equal to 16px ***************/
+  h1 {
+    padding-top: 90px;
+    font-size: 5.6rem;
+    margin: 0 auto;
+    font-family: 'Style Script', cursive;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  h1, h2 {
+    color: #66BFBF;
+  }
+
+  h3, a {
+    color: #11999E;
+  }
+
+  .gif {
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+  }
+
+  .pro {
+    font-weight: normal;
+  }
+
+  .skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+
+  .cloud1 {
+    width: 10%;
+    display: block;
+    position: absolute;
+    right: 600px;
+  }
+
+  .cloud2 {
+    width: 10%;
+    display: block;
+    position: absolute;
+    left: 600px;
+  }
+
+  .me {
+    padding-top: 30px;
+    border-radius: 50%;
+  }
+
+  hr {
+    border-style: dotted none none none;
+    width: 10%;
+    border-color: grey;
+    border-width: 10px;
+  }
+  .contact-me{
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+  }
+  .contact-message{
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+  }
+  .btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, 11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, 11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, 11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, 11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, 11999e);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  text-shadow: 2px 1px 3px #666666;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 27px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  margin-top: 32px;
+  color: #EAF6F6;
+}

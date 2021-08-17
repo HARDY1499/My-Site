@@ -58,14 +58,14 @@
     line-height: 2;
   }
 
-  .cloud1 {
+  .cloud2 {
     width: 10%;
     display: block;
     position: absolute;
     right: 600px;
   }
 
-  .cloud2 {
+  .cloud1 {
     width: 10%;
     display: block;
     position: absolute;
